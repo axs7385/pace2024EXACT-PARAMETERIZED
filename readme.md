@@ -1,4 +1,4 @@
-# one-sided crossing minimization problem Solver(The Heuristic Track)
+# one-sided crossing minimization problem Solver(The Exact and Parameterized Track)
 
 This repository contains a both exact and parameterized Solver for the one-sided crossing minimization problem that were developed for the PACE 2024 challenge. 
 
